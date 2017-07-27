@@ -6,6 +6,6 @@ operation.
 
 This is FreeCodeCamp.org project.
 
-https://baseballpoetess.github.io/calculator
+https://baseballpoetess.github.io/calculator/
 
 
